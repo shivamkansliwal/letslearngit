@@ -1,4 +1,5 @@
 #duplicate element in a list
+#duplicate element in the perticular list
 list=[1,2,3,4,1,2,5,3,5]
 result=[]
 for i in list:
